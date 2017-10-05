@@ -10,12 +10,12 @@ h1 {
   color:#5d8432;
 }
 
-li {
+a {
   font-size: 1.125rem;
   color: #793284
 }
 
-li,
-li:hover {
+a,
+a:hover {
   color: #b42885;
 }
