@@ -16,6 +16,10 @@ h4 {
   color: #5d8432;
 }
 
+img {
+  width: 100%
+}
+
 a {
   font-family: "Patua One", cursive;
   font-size: 1.125rem;
@@ -23,7 +27,7 @@ a {
 }
 
 figure {
- font-size: .75rem;
+  font-size: .75rem;
 }
 
 main + h2 {
