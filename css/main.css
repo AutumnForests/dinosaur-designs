@@ -32,7 +32,7 @@ a {
   color: #793284;
 }
 
-main > figcaption {
+main + figcaption {
   font-size: 1rem;
 }
 
